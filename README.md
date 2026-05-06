@@ -23,7 +23,7 @@ key market information?
 ## Project Structure
 
     nepse-pca-dimensionality-reduction/
-        pca_nepse_market.py        main script
+        main.py        main script
         requirements.txt           required packages
         README.md                  project documentation
         .gitignore                 files to ignore
@@ -64,7 +64,7 @@ key market information?
 
 4. Run the script
 
-        python pca_nepse_market.py
+        main.py
 
 ## Output
 
