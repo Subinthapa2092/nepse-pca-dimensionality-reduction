@@ -10,9 +10,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Data files
-*.csv
-
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
